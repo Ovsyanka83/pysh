@@ -15,7 +15,7 @@ from ideas import import_hook, main_hack
 from .token_transformers import transform_source
 from .util import MutableBool, __raise_exception__
 
-__version__ = "1.1.3"
+__version__ = "1.1.4"
 __all__ = ["P", "sh", "re", "typer", "sys", "os", "__pysh_check_returncodes__"]
 
 PIPE = subprocess.PIPE

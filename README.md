@@ -5,7 +5,7 @@ It was inspired by Jupyter's way of handling bash.
 
 ## Installation
 ```bash
-pip install pysh-stub
+pip install pysh
 ```
 ## Quickstart
 * If you have a hello_world.pysh file with the contents below, you can run it using `pysh hello_world.pysh`:
